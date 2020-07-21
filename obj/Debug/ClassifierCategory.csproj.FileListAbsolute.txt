@@ -1,0 +1,9 @@
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\bin\Debug\ClassifierCategory.exe.config
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\bin\Debug\ClassifierCategory.exe
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\bin\Debug\ClassifierCategory.pdb
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.csprojAssemblyReference.cache
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.Form1.resources
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.Properties.Resources.resources
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.csproj.GenerateResource.cache
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.exe
+C:\Users\entra21\marck-files\Solution2\ClassifierCategory\obj\Debug\ClassifierCategory.pdb
